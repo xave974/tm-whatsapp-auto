@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#25D366</color>
+    <color name="primary_dark">#128C7E</color>
+    <color name="primary_light">#DCF8C6</color>
+    <color name="accent">#075E54</color>
+    
+    <color name="status_open">#4CAF50</color>
+    <color name="status_closed">#FF9800</color>
+    <color name="status_error">#F44336</color>
+    
+    <color name="background">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <color name="switch_track_color">#B0BEC5</color>
+    <color name="switch_thumb_color">#FFFFFF</color>
+    
+    <color name="whatsapp_bubble">#DCF8C6</color>
+    <color name="sms_bubble">#E3F2FD</color>
+</resources>
